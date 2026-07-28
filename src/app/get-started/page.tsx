@@ -71,7 +71,7 @@ export default function GetStartedPage() {
                     <ul className="space-y-3 text-gray-300">
                       <li className="flex items-start">
                         <CheckCircle2 className="text-primary-400 mr-2 flex-shrink-0 mt-0.5" size={20} />
-                        <span>Early access to Lexia when we launch</span>
+                        <span>Early access to Lexia.AI when we launch</span>
                       </li>
                       <li className="flex items-start">
                         <CheckCircle2 className="text-primary-400 mr-2 flex-shrink-0 mt-0.5" size={20} />
@@ -115,7 +115,7 @@ export default function GetStartedPage() {
                   </form>
 
                   <p className="mt-4 text-sm text-gray-500 text-center">
-                    No spam. We'll only email you about Lexia.
+                    No spam. We'll only email you about Lexia.AI.
                   </p>
                 </div>
               </div>
@@ -131,7 +131,7 @@ export default function GetStartedPage() {
                     You're on the list!
                   </h3>
                   <p className="text-gray-300 mb-6">
-                    Thanks for your interest in Lexia. We'll reach out to <span className="text-primary-400 font-mono">{email}</span> when we're ready to launch.
+                    Thanks for your interest in Lexia.AI. We'll reach out to <span className="text-primary-400 font-mono">{email}</span> when we're ready to launch.
                   </p>
                   <p className="text-sm text-gray-400">
                     Check your email for a confirmation.
@@ -143,7 +143,7 @@ export default function GetStartedPage() {
 
           <FadeIn delay={0.4}>
             <div className="mt-16 text-center">
-              <h3 className="text-2xl font-bold text-white mb-6">Why Lexia?</h3>
+              <h3 className="text-2xl font-bold text-white mb-6">Why Lexia.AI?</h3>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto">
                 <div>
                   <h4 className="font-semibold text-white mb-2">Stay in Flow</h4>

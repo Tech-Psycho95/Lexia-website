@@ -13,12 +13,12 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Lexia - Talk to your codebase',
+  title: 'Lexia.AI - Talk to your codebase',
   description: 'A voice-native developer experience agent that enables developers to interact with their codebase through spoken questions and receive real-time spoken answers.',
   keywords: ['developer tools', 'voice interface', 'codebase navigation', 'AI assistant'],
-  authors: [{ name: 'Lexia Team' }],
+  authors: [{ name: 'Lexia.AI Team' }],
   openGraph: {
-    title: 'Lexia - Talk to your codebase',
+    title: 'Lexia.AI - Talk to your codebase',
     description: 'A voice-native developer experience agent for modern developers',
     type: 'website',
   },

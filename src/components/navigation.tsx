@@ -30,7 +30,7 @@ export function Navigation() {
             <div className="w-8 h-8 bg-gradient-to-br from-primary-500 to-accent-500 rounded-lg flex items-center justify-center">
               <span className="text-white font-bold text-lg">L</span>
             </div>
-            <span className="text-xl font-bold text-white">Lexia</span>
+            <span className="text-xl font-bold text-white">Lexia.AI</span>
           </Link>
 
           {/* Desktop Navigation */}

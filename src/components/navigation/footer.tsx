@@ -28,7 +28,7 @@ export function Footer() {
                 <div className="w-8 h-8 bg-gradient-to-r from-primary-500 to-accent-500 rounded-lg flex items-center justify-center">
                   <span className="text-white font-mono text-sm font-bold">L</span>
                 </div>
-                <span>Lexia</span>
+                <span>Lexia.AI</span>
               </Link>
               <p className="text-gray-400 text-sm mb-4 max-w-md">
                 A voice-native developer experience agent that enables developers to interact with their codebase through spoken questions and receive real-time spoken answers.
@@ -76,7 +76,7 @@ export function Footer() {
           {/* Bottom Section */}
           <div className="mt-8 pt-8 border-t border-dark-400 flex flex-col md:flex-row justify-between items-center">
             <p className="text-xs text-gray-500">
-              © {new Date().getFullYear()} Lexia. All rights reserved.
+              © {new Date().getFullYear()} Lexia.AI. All rights reserved.
             </p>
             <p className="text-xs text-gray-500 mt-2 md:mt-0">
               Built for developers, by developers.

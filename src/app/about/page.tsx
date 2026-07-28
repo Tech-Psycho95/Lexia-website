@@ -12,7 +12,7 @@ export default function AboutPage() {
           <FadeIn>
             <div className="text-center mb-12">
               <h1 className="text-4xl md:text-6xl font-bold text-white mb-4">
-                About Lexia
+                About Lexia.AI
               </h1>
               <p className="text-xl text-gray-300">
                 Building the future of developer-code interaction
@@ -26,7 +26,7 @@ export default function AboutPage() {
                 <div className="bg-dark-400 rounded-xl p-8 border border-dark-200">
                   <h2 className="text-2xl font-bold text-white mb-4">Solo founder, early stage</h2>
                   <p className="text-gray-300 mb-4">
-                    Lexia is being built by <span className="text-white font-semibold">Shivam</span>, 
+                    Lexia.AI is being built by <span className="text-white font-semibold">Shivam</span>, 
                     a solo developer with a background in AI/ML and a passion for improving developer experience. 
                     The product is currently pre-launch with no users yet—this is an honest, ambitious project 
                     in its early stages.
@@ -44,7 +44,7 @@ export default function AboutPage() {
               <div className="bg-accent-500/10 rounded-xl p-8 border border-accent-500/30">
                 <h3 className="text-2xl font-bold text-white mb-4">Looking for a technical co-founder</h3>
                 <p className="text-gray-300 mb-6">
-                  Building Lexia alone has been rewarding, but there's more to do than one person can handle. 
+                  Building Lexia.AI alone has been rewarding, but there's more to do than one person can handle. 
                   I'm actively looking for a technical co-founder who:
                 </p>
                 <ul className="space-y-2 text-gray-300 mb-6">
@@ -81,7 +81,7 @@ export default function AboutPage() {
                 <div className="space-y-4 text-gray-300">
                   <div>
                     <h4 className="text-white font-semibold mb-2">Pre-launch</h4>
-                    <p>Lexia is not publicly available yet. The core technology is being built and tested.</p>
+                    <p>Lexia.AI is not publicly available yet. The core technology is being built and tested.</p>
                   </div>
                   <div>
                     <h4 className="text-white font-semibold mb-2">No users</h4>

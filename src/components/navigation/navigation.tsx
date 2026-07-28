@@ -121,12 +121,12 @@ export function Navigation() {
             href="/" 
             className="flex items-center space-x-2 text-xl font-bold text-white hover:text-primary-400 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 focus:ring-offset-dark-500 rounded-md"
             onClick={closeMobileMenu}
-            aria-label="Lexia home"
+            aria-label="Lexia.AI home"
           >
             <div className="w-8 h-8 bg-gradient-to-r from-primary-500 to-accent-500 rounded-lg flex items-center justify-center">
               <span className="text-white font-mono text-sm font-bold">L</span>
             </div>
-            <span>Lexia</span>
+            <span>Lexia.AI</span>
           </Link>
 
           {/* Desktop Navigation */}

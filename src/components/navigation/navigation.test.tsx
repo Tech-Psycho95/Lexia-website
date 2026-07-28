@@ -22,7 +22,7 @@ describe('Navigation Component', () => {
     render(<Navigation />)
     
     // Check logo
-    expect(screen.getByText('Lexia')).toBeInTheDocument()
+    expect(screen.getByText('Lexia.AI')).toBeInTheDocument()
     
     // Check navigation items
     expect(screen.getByText('Home')).toBeInTheDocument()

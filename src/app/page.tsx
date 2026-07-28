@@ -22,7 +22,7 @@ export default function HomePage() {
             <FadeIn delay={0.2}>
               <p className="text-xl md:text-2xl text-gray-300 max-w-3xl">
                 Ask spoken questions about your code and get real-time spoken answers. 
-                Lexia understands your codebase and explains it back to you.
+                Lexia.AI understands your codebase and explains it back to you.
               </p>
             </FadeIn>
 
@@ -76,7 +76,7 @@ export default function HomePage() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-300 text-sm">
-                    "I'm getting a null pointer exception on line 42" → Lexia searches your error logs, 
+                    "I'm getting a null pointer exception on line 42" → Lexia.AI searches your error logs, 
                     finds similar patterns, and explains the root cause.
                   </p>
                 </CardContent>
@@ -96,7 +96,7 @@ export default function HomePage() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-300 text-sm">
-                    "How does authentication work in this app?" → Lexia maps the auth flow, 
+                    "How does authentication work in this app?" → Lexia.AI maps the auth flow, 
                     traces dependencies, and walks you through the implementation.
                   </p>
                 </CardContent>
@@ -116,7 +116,7 @@ export default function HomePage() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-300 text-sm">
-                    "What parameters does the /users endpoint accept?" → Lexia fetches the API docs 
+                    "What parameters does the /users endpoint accept?" → Lexia.AI fetches the API docs 
                     and reads back the schema with examples.
                   </p>
                 </CardContent>
@@ -183,7 +183,7 @@ export default function HomePage() {
                 Ready to talk to your code?
               </h2>
               <p className="text-gray-400 text-lg max-w-2xl mx-auto">
-                Join the waitlist to be among the first developers to try Lexia
+                Join the waitlist to be among the first developers to try Lexia.AI
               </p>
               <Button variant="primary" size="lg" asChild>
                 <Link href="/get-started">Join the Waitlist</Link>

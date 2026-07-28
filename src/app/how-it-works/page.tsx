@@ -17,7 +17,7 @@ export default function HowItWorksPage() {
     },
     {
       number: 2,
-      title: "Lexia embeds and searches",
+      title: "Lexia.AI embeds and searches",
       description: "Your question is embedded and matched against your codebase using vector search",
       icon: Database,
       code: `// Behind the scenes:
@@ -46,9 +46,9 @@ const results = await qdrant.search({
     {
       number: 4,
       title: "Answer generated and read back",
-      description: "An LLM generates an explanation, and Lexia speaks it back to you",
+      description: "An LLM generates an explanation, and Lexia.AI speaks it back to you",
       icon: Volume2,
-      code: `// Lexia responds:
+      code: `// Lexia.AI responds:
 "This null pointer exception occurs because 
 the user object isn't validated before accessing 
 its properties. Check line 89 in UserController 

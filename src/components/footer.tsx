@@ -13,7 +13,7 @@ export function Footer() {
                 <div className="w-6 h-6 bg-gradient-to-br from-primary-500 to-accent-500 rounded-md flex items-center justify-center">
                   <span className="text-white font-bold text-sm">L</span>
                 </div>
-                <span className="text-lg font-bold text-white">Lexia</span>
+                <span className="text-lg font-bold text-white">Lexia.AI</span>
               </div>
               <span className="text-gray-400 text-sm">Talk to your codebase</span>
             </div>

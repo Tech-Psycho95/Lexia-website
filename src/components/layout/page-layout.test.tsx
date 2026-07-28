@@ -17,7 +17,7 @@ describe('PageLayout', () => {
     expect(screen.getByText('Test Content')).toBeInTheDocument()
   })
 
-  it('renders navigation with Lexia logo', () => {
+  it('renders navigation with Lexia.AI logo', () => {
     render(
       <PageLayout>
         <div>Test Content</div>
@@ -25,7 +25,7 @@ describe('PageLayout', () => {
     )
     
     // Check for logo in navigation (should appear multiple times due to footer)
-    const lexiaElements = screen.getAllByText('Lexia')
+    const lexiaElements = screen.getAllByText('Lexia.AI')
     expect(lexiaElements.length).toBeGreaterThan(0)
   })
 
