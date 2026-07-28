@@ -110,14 +110,14 @@ export default function AboutPage() {
                 <h3 className="text-2xl font-bold text-white mb-6">Connect</h3>
                 <div className="flex justify-center gap-4">
                   <Button variant="outline" asChild>
-                    <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="flex items-center">
+                    <a href="https://github.com/Tech-Psycho95/LEXIA" target="_blank" rel="noopener noreferrer" className="flex items-center">
                       <Github className="mr-2" size={20} />
                       GitHub
                       <ExternalLink className="ml-2" size={16} />
                     </a>
                   </Button>
                   <Button variant="outline" asChild>
-                    <a href="https://dev.to" target="_blank" rel="noopener noreferrer" className="flex items-center">
+                    <a href="https://dev.to/shastraa_430" target="_blank" rel="noopener noreferrer" className="flex items-center">
                       Dev.to
                       <ExternalLink className="ml-2" size={16} />
                     </a>

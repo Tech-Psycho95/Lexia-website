@@ -21,7 +21,9 @@ export function Footer() {
             {/* Right side - Links and attribution */}
             <div className="flex flex-col md:flex-row items-center space-y-2 md:space-y-0 md:space-x-6">
               <Link
-                href="#"
+                href="https://github.com/Tech-Psycho95/LEXIA"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="flex items-center space-x-2 text-gray-400 hover:text-white transition-colors"
               >
                 <Github size={16} />
