@@ -35,8 +35,8 @@ yarn-error.log*
 next-env.d.ts
 
 # Kiro spec files
-.kiro/
-*.kiro/specs/lexia-marketing-website
+.kiro/specs/lexia-marketing-website
+*.kiro/
 
 # IDE
 .vscode/
