@@ -10,9 +10,7 @@ export function Footer() {
             {/* Left side - Logo and tagline */}
             <div className="flex flex-col md:flex-row items-center space-y-2 md:space-y-0 md:space-x-4">
               <div className="flex items-center space-x-2">
-                <div className="w-6 h-6 bg-gradient-to-br from-primary-500 to-accent-500 rounded-md flex items-center justify-center">
-                  <span className="text-white font-bold text-sm">L</span>
-                </div>
+                <img src="/lexia-logo.jpg" alt="Lexia.AI Logo" className="h-6 w-auto" />
                 <span className="text-lg font-bold text-white">Lexia.AI</span>
               </div>
               <span className="text-gray-400 text-sm">Talk to your codebase</span>

@@ -27,9 +27,7 @@ export function Navigation() {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2">
-            <div className="w-8 h-8 bg-gradient-to-br from-primary-500 to-accent-500 rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-lg">L</span>
-            </div>
+            <img src="/lexia-logo.jpg" alt="Lexia.AI Logo" className="h-8 w-auto" />
             <span className="text-xl font-bold text-white">Lexia.AI</span>
           </Link>
 

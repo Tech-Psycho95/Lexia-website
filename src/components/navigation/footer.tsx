@@ -25,9 +25,7 @@ export function Footer() {
                 href="/" 
                 className="flex items-center space-x-2 text-xl font-bold text-white hover:text-primary-400 transition-colors mb-4"
               >
-                <div className="w-8 h-8 bg-gradient-to-r from-primary-500 to-accent-500 rounded-lg flex items-center justify-center">
-                  <span className="text-white font-mono text-sm font-bold">L</span>
-                </div>
+                <img src="/lexia-logo.jpg" alt="Lexia.AI Logo" className="h-8 w-auto" />
                 <span>Lexia.AI</span>
               </Link>
               <p className="text-gray-400 text-sm mb-4 max-w-md">
